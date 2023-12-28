@@ -1,1 +1,3 @@
-Yo move this to windows side, install python3 and set up nltk again
+#Learning NLTK
+Practicing and Learning from the NLTK learning playlist: 
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
